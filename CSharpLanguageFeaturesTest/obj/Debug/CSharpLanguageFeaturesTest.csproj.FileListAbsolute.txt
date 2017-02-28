@@ -1,0 +1,20 @@
+C:\Users\jdeal\Desktop\Workstation\_READONLY\CSharpLanguageFeaturesTest\bin\Debug\CSharpLanguageFeaturesTest.dll
+C:\Users\jdeal\Desktop\Workstation\_READONLY\CSharpLanguageFeaturesTest\bin\Debug\CSharpLanguageFeaturesTest.pdb
+C:\Users\jdeal\Desktop\Workstation\_READONLY\CSharpLanguageFeaturesTest\obj\Debug\CSharpLanguageFeaturesTest.csprojResolveAssemblyReference.cache
+C:\Users\jdeal\Desktop\Workstation\_READONLY\CSharpLanguageFeaturesTest\obj\Debug\CSharpLanguageFeaturesTest.dll
+C:\Users\jdeal\Desktop\Workstation\_READONLY\CSharpLanguageFeaturesTest\obj\Debug\CSharpLanguageFeaturesTest.pdb
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTestAttempt\bin\Debug\CSharpLanguageFeaturesTest.dll
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTestAttempt\bin\Debug\CSharpLanguageFeaturesTest.pdb
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTestAttempt\obj\Debug\CSharpLanguageFeaturesTest.csprojResolveAssemblyReference.cache
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTestAttempt\obj\Debug\CSharpLanguageFeaturesTest.dll
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTestAttempt\obj\Debug\CSharpLanguageFeaturesTest.pdb
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTest\bin\Debug\CSharpLanguageFeaturesTest.dll
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTest\bin\Debug\CSharpLanguageFeaturesTest.pdb
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTest\obj\Debug\CSharpLanguageFeaturesTest.csprojResolveAssemblyReference.cache
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTest\obj\Debug\CSharpLanguageFeaturesTest.dll
+C:\Users\jdeal\Desktop\CSharpLanguageFeaturesTest\obj\Debug\CSharpLanguageFeaturesTest.pdb
+C:\Users\Shad\Documents\Visual Studio 2015\Projects\CSharpLanguageFeaturesTest\bin\Debug\CSharpLanguageFeaturesTest.dll
+C:\Users\Shad\Documents\Visual Studio 2015\Projects\CSharpLanguageFeaturesTest\bin\Debug\CSharpLanguageFeaturesTest.pdb
+C:\Users\Shad\Documents\Visual Studio 2015\Projects\CSharpLanguageFeaturesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Shad\Documents\Visual Studio 2015\Projects\CSharpLanguageFeaturesTest\obj\Debug\CSharpLanguageFeaturesTest.dll
+C:\Users\Shad\Documents\Visual Studio 2015\Projects\CSharpLanguageFeaturesTest\obj\Debug\CSharpLanguageFeaturesTest.pdb
